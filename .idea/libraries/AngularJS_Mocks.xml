@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="AngularJS Mocks" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://D:/Javascript Libraries/angular-mocks.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/Javascript Libraries/angular-mocks.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
